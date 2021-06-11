@@ -1,6 +1,6 @@
 
-# An introduction to { YOUR TOPIC } or A deep dive into { YOUR TOPIC }
-### Level: Beginner or Advanced
+# An Introduction to Fairness in Machine Learning using Fairlearn
+### Level: Beginner 
 ### Presentation: [Presentation_name](workshop/Presentation_template.pptx)
 
 ## Workshop description

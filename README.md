@@ -1,7 +1,7 @@
 
 # An Introduction to Fairness in Machine Learning using Fairlearn
 ### Level: Beginner 
-### Presentation: [Presentation_name](workshop/Presentation_template.pptx)
+### Presentation: [introduction to fairness](workshop/fairnessbeginner.pptx)
 
 ## Workshop description
 In the past few years there has been an increasing awareness amongst both the public and scientific community that algorithmic systems can reproduce, amplify, or even introduce unfairness in our societies. During the workshop, you will learn how to assess the fairness of machine learning models and how to choose an appropriate fairness metric for your use case.

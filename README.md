@@ -7,19 +7,19 @@
 In the past few years there has been an increasing awareness amongst both the public and scientific community that algorithmic systems can reproduce, amplify, or even introduce unfairness in our societies. During the workshop, you will learn how to assess the fairness of machine learning models and how to choose an appropriate fairness metric for your use case.
 
 ## Requirements
-Set up a Python 3 environment that can run Jupyter notebooks (Jupyter or Jupyterlab) and install the following libraries, e.g., using `pip`:
-
-* matplotlib
-* fairlearn
-
-See also the `requirements.txt` file.
+- python >= 3.6
+- conda, venv, pyenv
+- jupyter notebook or jupyter lab
 
 ## Usage
-* Clone the repository
-* Start jupyter(lab) and navigate to the workshop folder
+Set up a Python environment that can run Jupyter notebooks (Jupyter or Jupyterlab) (see Requirements section).
+
+1. Clone the repository
+2. Install the required libraries with pip: `pip install -r requirements.txt`
+3. Start jupyter(lab) and navigate to the workshop folder
 
 ## Video record
-Re-watch YouTube stream [here](link)
+Re-watch YouTube stream [here](https://youtu.be/es5nT7Qhj-w)
 
 ## Credits
 This workshop was set up by @pyladiesams and @hildeweerts

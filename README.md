@@ -8,7 +8,6 @@ In the past few years there has been an increasing awareness amongst both the pu
 
 ## Requirements
 - python >= 3.6
-- conda, venv, pyenv
 - jupyter notebook or jupyter lab
 
 ## Usage
